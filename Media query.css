@@ -1,0 +1,15 @@
+body {
+    background-color: violet;
+  }
+  
+  @media screen and (min-width: 480px) {
+    body {
+      background-color: blue;
+    }
+  }
+
+  h1,p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    font-size: medium;
+  }
